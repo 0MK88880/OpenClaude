@@ -1,0 +1,7 @@
+{
+  "provider": "openai",
+  "apiBaseUrl": "http://192.168.1.25:11434/v1",
+  "apiKey": "not-needed-for-local",
+  "model": "hf.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF:UD-Q4_K_XL",
+  "customName": "Windows5070 - Qwen3-Coder-30B-A3B"
+}
