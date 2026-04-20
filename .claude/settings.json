@@ -1,0 +1,7 @@
+{
+  "model": "claude-sonnet-4-6",
+  "description": "OpenClaude: Claude API + ローカル LLM マルチエージェントシステム",
+  "contextWindow": {
+    "maxTokens": 200000
+  }
+}
